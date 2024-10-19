@@ -1,7 +1,7 @@
 # About me
 <p><h2>👋🏻Hey! Yahyobek Zokirov. I'm Backend developer.</h2></p>
 
-- Telegram:                           [yahyobekzokirov]([https://t.me/otajonbozorboyev](https://t.me/bakhtiyarovich_y)
+- Telegram:                           [yahyobekzokirov](https://t.me/bakhtiyarovich_y)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=c,python,django)](https://skillicons.dev)
 
